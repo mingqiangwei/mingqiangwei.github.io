@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   #name             : "Your Sidebar Name"
-  name             : "[Mingqiang Wei](./files/CV-MingqiangWei.pdf)"
+  name             : "<a href='./files/CV-MingqiangWei.pdf'>Mingqiang Wei</a>"
   avatar           : "profile1.jpg"
  
   bio              : "Professor and Dean of AI at Nanjing University of Aeronautics and Astronautics"
